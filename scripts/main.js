@@ -1,16 +1,16 @@
 (function(){
   var shopController = function ($scope) {
     $scope.information = {
-      shopName : 'Zkouska',
-      e_mail : 'Zkouska',
-      street: 'EUR',
-      city: 'GBP',
+      shopName : 'Alza CZ',
+      e_mail : 'email@email.cz;',
+      street: 'Potovni 336',
+      city: 'Brno',
       country: 'Czech Republic',
-      zipcode: '1000',
-      phone: '747.10',
-      web: '24-JAN-15 10:27:44',
-      gps_lat: 'FR',
-      gps_long: 'FR',
+      zipcode: '671 67',
+      phone: '741 450 645',
+      web: 'seznam.cz',
+      gps_lat: '454545',
+      gps_long: '454556',
     };
 
     $scope.resetForm = function(){
